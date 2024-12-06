@@ -1,10 +1,10 @@
-# Android Project 6 - *Name of App Here*
+# Android Project 6 - BitFit2
 
-Submitted by: **Your Name Here**
+Submitted by: Kasaan Dornelus
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+ BitFit2 is a health metrics app that allows users to track height and weight.
 
-Time spent: **X** hours spent in total
+Time spent: 16 hours spent in total
 
 ## Required Features
 
