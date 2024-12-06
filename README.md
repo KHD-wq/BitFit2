@@ -10,7 +10,7 @@ Time spent: 16 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **Use at least 2 Fragments**
+- [X] **Use at least 2 Fragments**
 - [X] **Create a new dashboard fragment where users can see a summary of their entered data**
 - [X] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
 
